@@ -1,0 +1,14 @@
+*.bak
+*.bin
+*.jar
+*.kicad_prl
+*.lck
+*.o
+*-backups
+.vscode
+AppleIIVGA-Config.dsk
+build
+fp-info-cache
+/.vs
+.DS_Store
+*~
